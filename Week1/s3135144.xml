@@ -1,0 +1,126 @@
+<questions>
+  <question studentnumber="s3135144">
+    <string>Which lake takes the water from Missouri river?</string>
+    <answer>
+      <string>Canyon Ferry Lake</string>
+      <uri>https://www.wikidata.org/entity/Q5419</uri>
+    </answer>
+  </question>
+
+  <question studentnumber="s3135144">
+    <string>Which countries share the border with the Democratic Republic of the Congo?</string>
+    <answer>
+      <string>Central African Republic</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>South Sudan</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Uganda</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Rwanda</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Burundi</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Tanzania</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Zambia</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Angola</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Republic of the Congo</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+    <answer>
+      <string>Sudan</string>
+      <uri>https://www.wikidata.org/entity/Q974</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>How large is the city of Fukuoka?</string>
+    <answer>
+      <string>340030000m^2</string>
+      <uri>https://www.wikidata.org/entity/Q26600</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>State the height of the highest peak in Jamaica.</string>
+    <answer>
+      <string>2256m</string>
+      <uri>https://www.wikidata.org/entity/Q885798</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>How many sister cities does Vancouver have?</string>
+    <answer>
+      <string>10</string>
+      <uri>https://www.wikidata.org/entity/Q24639</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>State the capital of Brazil before 1960.</string>
+    <answer>
+      <string>Rio de Janeiro</string>
+      <uri>https://www.wikidata.org/entity/Q155</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>List the official languages of New Zealand.</string>
+    <answer>
+      <string>English</string>
+      <uri>https://www.wikidata.org/entity/Q664</uri>
+    </answer>
+    <answer>
+      <string>Māori</string>
+      <uri>https://www.wikidata.org/entity/Q664</uri>
+    </answer>
+    <answer>
+      <string>New Zealand Sign Language</string>
+      <uri>https://www.wikidata.org/entity/Q664</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>Which state is Bangalore the capital of?</string>
+    <answer>
+      <string>Karnataka</string>
+      <uri>https://www.wikidata.org/entity/Q1355</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>What is the population of Leeuwarden?</string>
+    <answer>
+      <string>108891</string>
+      <uri>https://www.wikidata.org/entity/Q25390</uri>
+    </answer>
+  </question>
+  
+  <question studentnumber="s3135144">
+    <string>name the deepest point of Indian Ocean.</string>
+    <answer>
+      <string>Diamantina Deep</string>
+      <uri>https://www.wikidata.org/entity/Q1239</uri>
+    </answer>
+  </question>
+</questions>
+
